@@ -6,7 +6,7 @@ This is the documentation for [Clock.sh](https://clock.sh).
 
 Clock.sh is a cronjob hoster, you can write script here(clock.sh support multi languages), clock.sh will run your script based on your crontab.
 
-![image-20190720151544217](/Users/laixintao/Program/easycron/help/docs/assets/image-20190720151544217.png)
+![image-20190720151544217](./assets/image-20190720151544217.png)
 
 ## Features
 
