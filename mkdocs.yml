@@ -1,6 +1,7 @@
 site_name: Help - Clock.sh
 nav:
     - Home: index.md
+    - Notification: Notification.md
     - About: about.md
 theme:
   name: 'material'
