@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to Clock.sh
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is the documentation for [Clock.sh](https://clock.sh).
 
-## Commands
+## What is Clock.sh?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Clock.sh is a cronjob hoster, you can write script here(clock.sh support multi languages), clock.sh will run your script based on your crontab.
 
-## Project layout
+![image-20190720151544217](/Users/laixintao/Program/easycron/help/docs/assets/image-20190720151544217.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Features
+
+- Support multi language with popular third package lib;
+- Collect your job's log(stdout and stderr);
+- Crontab explanation;
+- Support notifications when a job failed or ran, the notification can be sent to 20+ popular platforms;
