@@ -1,6 +1,6 @@
 ## Watch Your HTTPS Cert
 
-```Python3
+```Python
 Check if a SSL cert will expire in 3 days.
 
 Note:

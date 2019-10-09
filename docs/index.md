@@ -17,3 +17,4 @@ Clock.sh is a cronjob hoster, you can write script here(clock.sh support multi l
 
 ## How can I use Clock.sh for?
 
+see [usecases](/usecases/).

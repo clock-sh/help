@@ -3,5 +3,6 @@ nav:
     - Home: index.md
     - Notification: Notification.md
     - About: about.md
+    - Usecases: usecases.md
 theme:
   name: 'material'
