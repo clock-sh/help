@@ -14,3 +14,6 @@ Clock.sh is a cronjob hoster, you can write script here(clock.sh support multi l
 - Collect your job's log(stdout and stderr);
 - Crontab explanation;
 - Support notifications when a job failed or ran, the notification can be sent to 20+ popular platforms;
+
+## How can I use Clock.sh for?
+
