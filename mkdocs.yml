@@ -4,5 +4,6 @@ nav:
     - Notification: Notification.md
     - About: about.md
     - Usecases: usecases.md
+    - "Interact with Other Services": services.md
 theme:
   name: 'material'
