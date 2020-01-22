@@ -9,6 +9,7 @@ Clock.sh is only a "Serverless Crontab", it doesn't provide data persistence. Bu
 - [jsonstorage](https://jsonstorage.net/)
 - [jsonstore](https://www.jsonstore.io/)
 - [npoint](https://www.npoint.io/)
+- [extendsclass](https://extendsclass.com/json-storage.html)
 
 ## Serverless DB Service
 
