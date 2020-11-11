@@ -192,3 +192,6 @@ function parseOpts(args) {
   return opts;
 }
 ```
+
+> The original node script is from:
+> https://gist.github.com/yyx990803/7745157
