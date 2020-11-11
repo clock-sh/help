@@ -54,7 +54,7 @@ This is how it looks like:
 
 ![Telegram Github Stars Counter](./assets/telegram-star-counter.png)
 
-````
+```javascript
 var token = "13941412333:asdfasdfsadfasdfasdfsdf"; // change this to you telegram bot token!
 var chatId = "-1231231231"; // change this to your telegram chat id!
 
